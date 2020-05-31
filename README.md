@@ -1,6 +1,6 @@
 # comm_card
 
-A new Flutter project.
+A Simple Comm Card.
 
 ## Getting Started
 
